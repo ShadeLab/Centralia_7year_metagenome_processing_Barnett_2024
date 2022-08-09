@@ -1,0 +1,30 @@
+
+Lmod is automatically replacing "Python/3.6.4" with "Conda/3".
+
+Starting
+Tue Aug  9 12:34:19 EDT 2022
+ 
+ 
+Cen14_12102015_R1_S14
+Filtering contigs by size
+java -ea -Xmx200m -cp /mnt/home/barne424/anaconda3/envs/metagenome_proc/opt/bbmap-38.18/current/ jgi.ReformatReads in=/mnt/research/ShadeLab/Barnett/Centralia_metagenome/contigs/Cen14_12102015_R1_S14/scaffolds.fasta out=/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/Cen14_12102015_R1_S14.filt_scaffolds.fasta minlength=1000
+Executing jgi.ReformatReads [in=/mnt/research/ShadeLab/Barnett/Centralia_metagenome/contigs/Cen14_12102015_R1_S14/scaffolds.fasta, out=/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/Cen14_12102015_R1_S14.filt_scaffolds.fasta, minlength=1000]
+
+Input is being processed as unpaired
+Exception in thread "Thread-2" java.lang.RuntimeException: java.io.IOException: Disk quota exceeded
+	at stream.ReadStreamByteWriter.run(ReadStreamByteWriter.java:32)
+Caused by: java.io.IOException: Disk quota exceeded
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:354)
+	at java.base/java.io.BufferedOutputStream.write(BufferedOutputStream.java:123)
+	at stream.ReadStreamByteWriter.writeFasta(ReadStreamByteWriter.java:364)
+	at stream.ReadStreamByteWriter.processJobs(ReadStreamByteWriter.java:99)
+	at stream.ReadStreamByteWriter.run2(ReadStreamByteWriter.java:42)
+	at stream.ReadStreamByteWriter.run(ReadStreamByteWriter.java:28)
+Exception in thread "main" java.lang.RuntimeException: Writing to a terminated thread.
+	at stream.ConcurrentGenericReadOutputStream.write(ConcurrentGenericReadOutputStream.java:207)
+	at stream.ConcurrentGenericReadOutputStream.addDisordered(ConcurrentGenericReadOutputStream.java:202)
+	at stream.ConcurrentGenericReadOutputStream.add(ConcurrentGenericReadOutputStream.java:102)
+	at jgi.ReformatReads.process(ReformatReads.java:1058)
+	at jgi.ReformatReads.main(ReformatReads.java:46)
+slurmstepd: error: *** JOB 60233428 ON lac-337 CANCELLED AT 2022-08-09T12:37:38 ***
