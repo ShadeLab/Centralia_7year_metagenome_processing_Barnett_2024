@@ -1,0 +1,66 @@
+#!/bin/bash
+
+########### Resource request ############
+
+#SBATCH --job-name=get_coverage
+#SBATCH --time=15:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=50
+#SBATCH --mem=100G
+#SBATCH --output=S3_get_coverage.out
+#SBATCH -A shade-cole-bonito
+
+########### Command lines ###########
+
+module load Conda/3
+conda activate metagenome_proc
+echo "Starting"
+date
+echo " "
+echo " "
+
+for pfx1 in $(cat site_sample_list.txt)
+do
+	echo ${pfx1}
+	echo "Filtering contigs by size"
+	reformat.sh in=/mnt/scratch/barne424/Centralia_metagenome/contigs/${pfx1}/scaffolds.fasta \
+		out=/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/${pfx1}.filt_scaffolds.fasta \
+		minlength=1000
+
+	echo "Begining indexing"
+	echo " "
+	echo " " 
+	bbmap.sh ref=/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/${pfx1}.filt_scaffolds.fasta \
+		threads=50
+
+	echo " "
+	echo " " 
+	echo "Begining mapping"
+	echo " "
+	echo " "
+	mkdir /mnt/scratch/barne424/Centralia_metagenome/coverages/${pfx1}
+	for pfx2 in $(cat full_sample_list.txt)
+	do
+		bbmap.sh in=/mnt/scratch/barne424/Centralia_metagenome/filt_seq/${pfx2}_R1.clean.EC.fastq.gz \
+			in2=/mnt/scratch/barne424/Centralia_metagenome/filt_seq/${pfx2}_R2.clean.EC.fastq.gz \
+			covstats=/mnt/scratch/barne424/Centralia_metagenome/coverages/${pfx1}/${pfx2}.cov.txt \
+			threads=50 \
+			fast=t
+		echo " "
+		echo " "
+	done
+
+	echo "Combining mapping"
+	python combine_depths.py /mnt/scratch/barne424/Centralia_metagenome/coverages/${pfx1} /mnt/research/ShadeLab/Barnett/Centralia_metagenome/coverages ${pfx1}
+	echo " "
+	echo " "
+	
+	echo "Cleanup"
+	rm -r /mnt/scratch/barne424/Centralia_metagenome/coverages/${pfx1}
+	rm -r ref
+
+done
+echo "Done!"
+date
+conda deactivate
