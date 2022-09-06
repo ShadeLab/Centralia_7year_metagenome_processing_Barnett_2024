@@ -1,0 +1,294 @@
+
+Lmod is automatically replacing "Python/3.6.4" with "Conda/3".
+
+Getting read statistics
+Mon Sep  5 20:44:10 EDT 2022
+ 
+ 
+Cen21_05102021_R1_S55
+Mon Sep  5 20:44:10 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen21_05102021_R1_S55
+
+---
+
+74506341 forward reads at 66.32390291052356% average GC
+74506341 reverse reads at 66.32662215973245% average GC
+Done!
+Mon Sep  5 21:37:23 EDT 2022
+ 
+ 
+Cen22_12102015_R1_S56
+Mon Sep  5 21:37:23 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_12102015_R1_S56
+
+---
+
+86212037 forward reads at 65.48680906678379% average GC
+86212037 reverse reads at 65.46784512531889% average GC
+Done!
+Mon Sep  5 22:38:21 EDT 2022
+ 
+ 
+Cen22_11102016_R1_S57
+Mon Sep  5 22:38:21 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_11102016_R1_S57
+
+---
+
+67201032 forward reads at 64.64108324912632% average GC
+67201032 reverse reads at 64.62355095976584% average GC
+Done!
+Mon Sep  5 23:26:07 EDT 2022
+ 
+ 
+Cen22_20102017_R1_S58
+Mon Sep  5 23:26:07 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_20102017_R1_S58
+
+---
+
+71863033 forward reads at 63.25577694248837% average GC
+71863033 reverse reads at 63.2479728810671% average GC
+Done!
+Tue Sep  6 00:17:59 EDT 2022
+ 
+ 
+Cen22_03102018_R1_S59
+Tue Sep  6 00:17:59 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_03102018_R1_S59
+
+---
+
+63953397 forward reads at 62.74240589489287% average GC
+63953397 reverse reads at 62.73248598425744% average GC
+Done!
+Tue Sep  6 01:03:39 EDT 2022
+ 
+ 
+Cen22_06102019_R1_S60
+Tue Sep  6 01:03:39 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_06102019_R1_S60
+
+---
+
+63713182 forward reads at 63.68600926009945% average GC
+63713182 reverse reads at 63.684912033746784% average GC
+Done!
+Tue Sep  6 01:48:36 EDT 2022
+ 
+ 
+Cen22_13102020_R1_S61
+Tue Sep  6 01:48:36 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_13102020_R1_S61
+
+---
+
+56343903 forward reads at 63.37301989973347% average GC
+56343903 reverse reads at 63.367104247180094% average GC
+Done!
+Tue Sep  6 02:28:52 EDT 2022
+ 
+ 
+Cen22_07102021_R1_S62
+Tue Sep  6 02:28:52 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen22_07102021_R1_S62
+
+---
+
+54788245 forward reads at 63.58742254230965% average GC
+54788245 reverse reads at 63.60157845617699% average GC
+Done!
+Tue Sep  6 03:08:14 EDT 2022
+ 
+ 
+Cen23_13102015_R1_S63
+Tue Sep  6 03:08:14 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_13102015_R1_S63
+
+---
+
+48728911 forward reads at 63.83646013139721% average GC
+48728911 reverse reads at 63.831419882261194% average GC
+Done!
+Tue Sep  6 03:43:04 EDT 2022
+ 
+ 
+Cen23_12102016_R1_S64
+Tue Sep  6 03:43:04 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_12102016_R1_S64
+
+---
+
+46940332 forward reads at 64.19433150442285% average GC
+46940332 reverse reads at 64.1927037414074% average GC
+Done!
+Tue Sep  6 04:16:26 EDT 2022
+ 
+ 
+Cen23_21102017_R1_S65
+Tue Sep  6 04:16:26 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_21102017_R1_S65
+
+---
+
+47095084 forward reads at 63.452776608661104% average GC
+47095084 reverse reads at 63.46074863409759% average GC
+Done!
+Tue Sep  6 04:49:41 EDT 2022
+ 
+ 
+Cen23_04102018_R1_S66
+Tue Sep  6 04:49:41 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_04102018_R1_S66
+
+---
+
+23910661 forward reads at 63.61982228330453% average GC
+23910661 reverse reads at 63.62803181173541% average GC
+Done!
+Tue Sep  6 05:06:39 EDT 2022
+ 
+ 
+Cen23_07102019_R1_S67
+Tue Sep  6 05:06:39 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_07102019_R1_S67
+
+---
+
+51063676 forward reads at 63.78912600374877% average GC
+51063676 reverse reads at 63.78507477911845% average GC
+Done!
+Tue Sep  6 05:42:21 EDT 2022
+ 
+ 
+Cen23_15102020_R1_S68
+Tue Sep  6 05:42:21 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_15102020_R1_S68
+
+---
+
+37264297 forward reads at 63.88759462193488% average GC
+37264297 reverse reads at 63.891226829618915% average GC
+Done!
+Tue Sep  6 06:08:40 EDT 2022
+ 
+ 
+Cen23_06102021_R1_S69
+Tue Sep  6 06:08:40 EDT 2022
+ 
+ 
+Getting read stats
+ 
+Number of arguments:  4 arguments.
+Input read directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/
+Statistics file:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/read_statistics/Filtered_read_statistics.txt
+Sample:  Cen23_06102021_R1_S69
+
+---
+
+35023157 forward reads at 63.53460502856924% average GC
+35023157 reverse reads at 63.52191822452837% average GC
+Done!
+Tue Sep  6 06:33:19 EDT 2022
+ 
+ 
+Done with all sites!
+Tue Sep  6 06:33:19 EDT 2022

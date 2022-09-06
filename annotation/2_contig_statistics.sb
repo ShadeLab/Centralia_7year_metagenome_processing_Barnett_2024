@@ -1,0 +1,43 @@
+#!/bin/bash
+
+########### Resource request ############
+
+#SBATCH --job-name=contig_stats
+#SBATCH --time=2:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=10G
+#SBATCH --output=S2_contig_statistics.out
+#SBATCH -A shade-cole-bonito
+
+########### Command lines ###########
+
+module load Conda/3
+conda activate genome_annotation
+
+echo "Getting contig statistics"
+date
+
+for pfx in $(cat full_sample_list.txt)
+do
+	echo " "
+	echo " "
+	echo ${pfx}
+	date
+	echo " "
+	echo " "
+	echo "Getting contig stats and renaming contigs to be shorter"
+	echo " "
+	python full_contig_statistics.py \
+		/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/ \
+		/mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_statistics/ \
+		${pfx}		
+	echo "Done!"
+	date
+done
+echo " "
+echo " "
+echo "Done with all sites!"
+date
+conda deactivate

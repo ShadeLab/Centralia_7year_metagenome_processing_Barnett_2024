@@ -1,0 +1,949 @@
+
+Lmod is automatically replacing "Python/3.6.4" with "Conda/3".
+
+Begining prokka annotations
+Wed Aug 31 23:17:59 EDT 2022
+ 
+ 
+Cen17_12102015_R1_S35
+Wed Aug 31 23:17:59 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_12102015_R1_S35
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Wed Aug 31 23:31:23 EDT 2022
+ 
+ 
+Cen17_12102016_R1_S36
+Wed Aug 31 23:31:23 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_12102016_R1_S36
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 00:23:10 EDT 2022
+ 
+ 
+Cen17_21102017_R1_S37
+Thu Sep  1 00:23:10 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_21102017_R1_S37
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 00:37:28 EDT 2022
+ 
+ 
+Cen17_03102018_R1_S38
+Thu Sep  1 00:37:28 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_03102018_R1_S38
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 00:48:50 EDT 2022
+ 
+ 
+Cen17_06102019_R1_S39
+Thu Sep  1 00:48:50 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_06102019_R1_S39
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 01:11:05 EDT 2022
+ 
+ 
+Cen17_14102020_R1_S40
+Thu Sep  1 01:11:05 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_14102020_R1_S40
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 01:27:52 EDT 2022
+ 
+ 
+Cen17_05102021_R1_S41
+Thu Sep  1 01:27:52 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen17_05102021_R1_S41
+
+---
+
+Performing annotation
+ 
+ 
+ 
+Done!
+Thu Sep  1 01:36:23 EDT 2022
+ 
+ 
+Cen19_12102015_R1_S42
+Thu Sep  1 01:36:23 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_12102015_R1_S42
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 03:53:36 EDT 2022
+ 
+ 
+Cen19_11102016_R1_S43
+Thu Sep  1 03:53:36 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_11102016_R1_S43
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 05:21:03 EDT 2022
+ 
+ 
+Cen19_19102017_R1_S44
+Thu Sep  1 05:21:03 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_19102017_R1_S44
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 06:34:31 EDT 2022
+ 
+ 
+Cen19_02102018_R1_S45
+Thu Sep  1 06:34:31 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_02102018_R1_S45
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 08:03:50 EDT 2022
+ 
+ 
+Cen19_06102019_R1_S46
+Thu Sep  1 08:03:50 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_06102019_R1_S46
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 10:04:34 EDT 2022
+ 
+ 
+Cen19_13102020_R1_S47
+Thu Sep  1 10:04:34 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_13102020_R1_S47
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 11:54:36 EDT 2022
+ 
+ 
+Cen19_05102021_R1_S48
+Thu Sep  1 11:54:36 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen19_05102021_R1_S48
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 13:43:13 EDT 2022
+ 
+ 
+Cen21_12102015_R1_S49
+Thu Sep  1 13:43:13 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_12102015_R1_S49
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 15:46:29 EDT 2022
+ 
+ 
+Cen21_11102016_R1_S50
+Thu Sep  1 15:46:29 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_11102016_R1_S50
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 18:59:35 EDT 2022
+ 
+ 
+Cen21_19102017_R1_S51
+Thu Sep  1 18:59:35 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_19102017_R1_S51
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 21:26:11 EDT 2022
+ 
+ 
+Cen21_02102018_R1_S52
+Thu Sep  1 21:26:11 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_02102018_R1_S52
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 22:29:46 EDT 2022
+ 
+ 
+Cen21_06102019_R1_S53
+Thu Sep  1 22:29:46 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_06102019_R1_S53
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Thu Sep  1 23:57:43 EDT 2022
+ 
+ 
+Cen21_13102020_R1_S54
+Thu Sep  1 23:57:43 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_13102020_R1_S54
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 01:11:09 EDT 2022
+ 
+ 
+Cen21_05102021_R1_S55
+Fri Sep  2 01:11:09 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen21_05102021_R1_S55
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 02:49:48 EDT 2022
+ 
+ 
+Cen22_12102015_R1_S56
+Fri Sep  2 02:49:48 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_12102015_R1_S56
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 04:19:15 EDT 2022
+ 
+ 
+Cen22_11102016_R1_S57
+Fri Sep  2 04:19:15 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_11102016_R1_S57
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 05:57:30 EDT 2022
+ 
+ 
+Cen22_20102017_R1_S58
+Fri Sep  2 05:57:30 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_20102017_R1_S58
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 08:20:28 EDT 2022
+ 
+ 
+Cen22_03102018_R1_S59
+Fri Sep  2 08:20:28 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_03102018_R1_S59
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 10:40:11 EDT 2022
+ 
+ 
+Cen22_06102019_R1_S60
+Fri Sep  2 10:40:11 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_06102019_R1_S60
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 12:30:42 EDT 2022
+ 
+ 
+Cen22_13102020_R1_S61
+Fri Sep  2 12:30:42 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_13102020_R1_S61
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 14:31:58 EDT 2022
+ 
+ 
+Cen22_07102021_R1_S62
+Fri Sep  2 14:31:58 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen22_07102021_R1_S62
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 16:11:30 EDT 2022
+ 
+ 
+Cen23_13102015_R1_S63
+Fri Sep  2 16:11:30 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_13102015_R1_S63
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 16:46:09 EDT 2022
+ 
+ 
+Cen23_12102016_R1_S64
+Fri Sep  2 16:46:09 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_12102016_R1_S64
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 17:42:24 EDT 2022
+ 
+ 
+Cen23_21102017_R1_S65
+Fri Sep  2 17:42:24 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_21102017_R1_S65
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 18:24:26 EDT 2022
+ 
+ 
+Cen23_04102018_R1_S66
+Fri Sep  2 18:24:26 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_04102018_R1_S66
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 18:34:31 EDT 2022
+ 
+ 
+Cen23_07102019_R1_S67
+Fri Sep  2 18:34:31 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_07102019_R1_S67
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 19:13:34 EDT 2022
+ 
+ 
+Cen23_15102020_R1_S68
+Fri Sep  2 19:13:34 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_15102020_R1_S68
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 19:39:52 EDT 2022
+ 
+ 
+Cen23_06102021_R1_S69
+Fri Sep  2 19:39:52 EDT 2022
+ 
+ 
+Getting contig stats and renaming contigs to be shorter
+ 
+Number of arguments:  5 arguments.
+Input contig directory:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/
+Directory for stats:  /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/contig_stats/
+Output contig directory:  /mnt/scratch/barne424/Centralia_metagenome/temp_contigs/
+Sample:  Cen23_06102021_R1_S69
+
+---
+
+Performing annotation
+ 
+
+
+Warning:  Sequence is long (max 32000000 for training).
+Training on the first 32000000 bases.
+
+ 
+ 
+Done!
+Fri Sep  2 20:02:17 EDT 2022
+ 
+ 
+Done with all sites!
+Fri Sep  2 20:02:17 EDT 2022

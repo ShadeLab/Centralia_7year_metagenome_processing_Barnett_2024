@@ -1,0 +1,39 @@
+#!/bin/bash
+
+########### Resource request ############
+
+#SBATCH --job-name=metabat2
+#SBATCH --time=2:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=50
+#SBATCH --mem=100G
+#SBATCH --output=S4a_binning_metabat2.out
+#SBATCH -A shade-cole-bonito
+
+########### Command lines ###########
+
+module load Conda/3
+conda activate metagenome_proc
+
+echo "Begining binning"
+date
+echo " "
+echo " " 
+
+for pfx in $(cat site_sample_list.txt)
+do 
+	mkdir /mnt/research/ShadeLab/Barnett/Centralia_metagenome/metabat2_bins/${pfx}
+
+	metabat2 -i /mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_contigs/${pfx}.filt_scaffolds.fasta \
+		-a /mnt/research/ShadeLab/Barnett/Centralia_metagenome/coverages/${pfx}.comb_cov.txt \
+		-o /mnt/research/ShadeLab/Barnett/Centralia_metagenome/metabat2_bins/${pfx}/bin \
+		-v -t 50 -l
+
+	echo " "
+	echo " "
+done
+
+echo "Done!"
+date
+conda deactivate
