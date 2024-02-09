@@ -1,0 +1,786 @@
+
+Lmod is automatically replacing "Python/3.6.4" with "Conda/3".
+
+Running microbecensus
+Thu Oct 20 16:40:05 EDT 2022
+ 
+Cen21_12102015_R1_S49
+Thu Oct 20 16:40:05 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_12102015_R1_S49_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_12102015_R1_S49_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_12102015_R1_S49_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	13884 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	178970 reads hit marker proteins
+Filtering hits...
+	7234 reads assigned to a marker protein
+Computing average genome size...
+	4769588.16 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 17:20:59 EDT 2022
+ 
+Cen21_11102016_R1_S50
+Thu Oct 20 17:20:59 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_11102016_R1_S50_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_11102016_R1_S50_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_11102016_R1_S50_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	19159 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	177039 reads hit marker proteins
+Filtering hits...
+	6598 reads assigned to a marker protein
+Computing average genome size...
+	5219973.55 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 17:54:33 EDT 2022
+ 
+Cen21_19102017_R1_S51
+Thu Oct 20 17:54:33 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_19102017_R1_S51_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_19102017_R1_S51_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_19102017_R1_S51_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	13612 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	178653 reads hit marker proteins
+Filtering hits...
+	6854 reads assigned to a marker protein
+Computing average genome size...
+	4974037.02 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 18:21:21 EDT 2022
+ 
+Cen21_02102018_R1_S52
+Thu Oct 20 18:21:21 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_02102018_R1_S52_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_02102018_R1_S52_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_02102018_R1_S52_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	46616 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	183449 reads hit marker proteins
+Filtering hits...
+	6326 reads assigned to a marker protein
+Computing average genome size...
+	5296409.03 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 18:52:08 EDT 2022
+ 
+Cen21_06102019_R1_S53
+Thu Oct 20 18:52:08 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_06102019_R1_S53_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_06102019_R1_S53_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_06102019_R1_S53_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	25436 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	176737 reads hit marker proteins
+Filtering hits...
+	5773 reads assigned to a marker protein
+Computing average genome size...
+	6065528.12 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 19:17:10 EDT 2022
+ 
+Cen21_13102020_R1_S54
+Thu Oct 20 19:17:10 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_13102020_R1_S54_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_13102020_R1_S54_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_13102020_R1_S54_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	23164 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	179043 reads hit marker proteins
+Filtering hits...
+	6072 reads assigned to a marker protein
+Computing average genome size...
+	5575768.82 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 19:42:27 EDT 2022
+ 
+Cen21_05102021_R1_S55
+Thu Oct 20 19:42:27 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_05102021_R1_S55_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen21_05102021_R1_S55_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen21_05102021_R1_S55_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	26374 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	185150 reads hit marker proteins
+Filtering hits...
+	6427 reads assigned to a marker protein
+Computing average genome size...
+	5554583.5 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 20:17:26 EDT 2022
+ 
+Cen22_12102015_R1_S56
+Thu Oct 20 20:17:26 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_12102015_R1_S56_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_12102015_R1_S56_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_12102015_R1_S56_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	8680 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	181123 reads hit marker proteins
+Filtering hits...
+	7924 reads assigned to a marker protein
+Computing average genome size...
+	4646495.57 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 20:56:00 EDT 2022
+ 
+Cen22_11102016_R1_S57
+Thu Oct 20 20:56:00 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_11102016_R1_S57_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_11102016_R1_S57_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_11102016_R1_S57_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	14136 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	178850 reads hit marker proteins
+Filtering hits...
+	7776 reads assigned to a marker protein
+Computing average genome size...
+	4442658.14 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 21:27:34 EDT 2022
+ 
+Cen22_20102017_R1_S58
+Thu Oct 20 21:27:34 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_20102017_R1_S58_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_20102017_R1_S58_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_20102017_R1_S58_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	16137 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	175502 reads hit marker proteins
+Filtering hits...
+	6519 reads assigned to a marker protein
+Computing average genome size...
+	5240127.83 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 22:00:33 EDT 2022
+ 
+Cen22_03102018_R1_S59
+Thu Oct 20 22:00:33 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_03102018_R1_S59_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_03102018_R1_S59_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_03102018_R1_S59_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	12625 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	174296 reads hit marker proteins
+Filtering hits...
+	6536 reads assigned to a marker protein
+Computing average genome size...
+	5271389.06 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 22:30:40 EDT 2022
+ 
+Cen22_06102019_R1_S60
+Thu Oct 20 22:30:40 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_06102019_R1_S60_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_06102019_R1_S60_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_06102019_R1_S60_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	31726 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	176935 reads hit marker proteins
+Filtering hits...
+	5768 reads assigned to a marker protein
+Computing average genome size...
+	6117744.16 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 23:00:46 EDT 2022
+ 
+Cen22_13102020_R1_S61
+Thu Oct 20 23:00:46 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_13102020_R1_S61_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_13102020_R1_S61_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_13102020_R1_S61_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	10562 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	179445 reads hit marker proteins
+Filtering hits...
+	6294 reads assigned to a marker protein
+Computing average genome size...
+	5581701.58 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 23:28:02 EDT 2022
+ 
+Cen22_07102021_R1_S62
+Thu Oct 20 23:28:02 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_07102021_R1_S62_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen22_07102021_R1_S62_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen22_07102021_R1_S62_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	12389 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	177866 reads hit marker proteins
+Filtering hits...
+	6210 reads assigned to a marker protein
+Computing average genome size...
+	5668556.51 bp
+Computing number of genome equivalents...
+Done!
+Thu Oct 20 23:55:02 EDT 2022
+ 
+Cen23_13102015_R1_S63
+Thu Oct 20 23:55:02 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_13102015_R1_S63_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_13102015_R1_S63_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_13102015_R1_S63_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	15377 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	177783 reads hit marker proteins
+Filtering hits...
+	5650 reads assigned to a marker protein
+Computing average genome size...
+	6141352.43 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 00:19:59 EDT 2022
+ 
+Cen23_12102016_R1_S64
+Fri Oct 21 00:19:59 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_12102016_R1_S64_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_12102016_R1_S64_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_12102016_R1_S64_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	9119 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	179008 reads hit marker proteins
+Filtering hits...
+	5883 reads assigned to a marker protein
+Computing average genome size...
+	6025189.95 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 00:44:24 EDT 2022
+ 
+Cen23_21102017_R1_S65
+Fri Oct 21 00:44:24 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_21102017_R1_S65_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_21102017_R1_S65_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_21102017_R1_S65_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	18398 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	175227 reads hit marker proteins
+Filtering hits...
+	5651 reads assigned to a marker protein
+Computing average genome size...
+	5941224.8 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 01:08:41 EDT 2022
+ 
+Cen23_04102018_R1_S66
+Fri Oct 21 01:08:41 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_04102018_R1_S66_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_04102018_R1_S66_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_04102018_R1_S66_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	26958 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	176641 reads hit marker proteins
+Filtering hits...
+	5476 reads assigned to a marker protein
+Computing average genome size...
+	6312811.81 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 01:25:16 EDT 2022
+ 
+Cen23_07102019_R1_S67
+Fri Oct 21 01:25:16 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_07102019_R1_S67_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_07102019_R1_S67_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_07102019_R1_S67_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	25061 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	175932 reads hit marker proteins
+Filtering hits...
+	5452 reads assigned to a marker protein
+Computing average genome size...
+	6252893.89 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 01:50:50 EDT 2022
+ 
+Cen23_15102020_R1_S68
+Fri Oct 21 01:50:50 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_15102020_R1_S68_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_15102020_R1_S68_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_15102020_R1_S68_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	22102 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	176916 reads hit marker proteins
+Filtering hits...
+	5851 reads assigned to a marker protein
+Computing average genome size...
+	5764926.69 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 02:11:49 EDT 2022
+ 
+Cen23_06102021_R1_S69
+Fri Oct 21 02:11:49 EDT 2022
+ 
+
+MicrobeCensus - estimation of average genome size from shotgun sequence data
+version 1.1.0; github.com/snayfach/MicrobeCensus
+Copyright (C) 2013-2015 Stephen Nayfach
+Freely distributed under the GNU General Public License (GPLv3)
+
+=============Parameters==============
+Input metagenome: ['/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_06102021_R1_S69_R1.clean.EC.fastq.gz', '/mnt/research/ShadeLab/Barnett/Centralia_metagenome/filt_seq/Cen23_06102021_R1_S69_R1.clean.EC.fastq.gz']
+Output file: /mnt/research/ShadeLab/Barnett/Centralia_metagenome/annotations/microbecensus/Cen23_06102021_R1_S69_census.txt
+Reads trimmed to: 150 bp
+Maximum reads sampled: 2000000
+Threads to use for db search: 50
+Minimum base-level quality score: -5
+Minimum read-level quality score: -5
+Maximum percent unknown bases/read: 100
+Filter duplicate reads: False
+Keep temporary files: False
+
+====Estimating Average Genome Size====
+Sampling & trimming reads...
+	26096 reads shorter than 150 bp and skipped
+	0 low quality reads found and skipped
+	0 duplicate reads found and skipped
+	2000000 reads sampled from seqfile
+Searching reads against marker proteins...
+	176515 reads hit marker proteins
+Filtering hits...
+	5822 reads assigned to a marker protein
+Computing average genome size...
+	5737325.0 bp
+Computing number of genome equivalents...
+Done!
+Fri Oct 21 02:32:02 EDT 2022
+ 
+ 
+Done with all sites!
+Fri Oct 21 02:32:02 EDT 2022
