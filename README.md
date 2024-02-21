@@ -5,7 +5,7 @@
 
 
 ### Data
-The raw data for this study are available in the NCBI SRA under bioproject [PRJNA974462](https://www.ncbi.nlm.nih.gov/sra/?term=number).
+The raw data for this study are available in the NCBI SRA under bioproject [PRJNA974462](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA974462).
 
 
 ### To cite this work or code
