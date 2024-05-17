@@ -1,15 +1,13 @@
 ## Github Repository for
 # Seven years of whole community shotgun metagenomes from soils affected by the coal mine fires in Centralia, Pennsylvania
 ## by Samuel Barnett and Ashley Shade
-<i>This work is not published.</i>
-
+<i>This work is published.</i>
 
 ### Data
 The raw data for this study are available in the NCBI SRA under bioproject [PRJNA974462](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA974462).
 
-
 ### To cite this work or code
-TBD
+Barnett SE, Shade A. 0. Seven years of microbial community metagenomes from temperate soils affected by an ongoing coal seam fire. Microbiol Resour Announc 0:e00198-24. DOI: [10.1128/mra.00198-24](https://doi.org/10.1128/mra.00198-24)
 
 ### Abstract
 We examined the dynamics of soil microbiomes under heat press disturbance from an underground coal mine fire in Centralia, Pennsylvania. Here we present metagenomic sequencing and assembly data from soil microbiomes across seven consecutive years at repeatedly sampled fire affected sites along with unaffected reference sites.
